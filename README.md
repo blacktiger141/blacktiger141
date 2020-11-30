@@ -8,4 +8,5 @@
 - 📫 How to reach me: ...0000p
 - 😄 Pronouns: ...hi/his
 - ⚡ Fun fact: ... ho yes
+[! website ](https://img.shields.io/badge/1.2vx-Hello%20--im__%20black-orange)
 -->
