@@ -1,4 +1,10 @@
-### Hi there 👋
+
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-blacktiger141-green?style=for-the-badge&logo=github)](https://github.com/blacktiger141)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/md.shiam.1829405)
+
+
+Hi there 👋
 <p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
