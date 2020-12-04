@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="left">
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 - 🔭 I’m currently working on ... b**b**
 - 🌱 I’m currently learning ... yes
 - 👯 I’m looking to collaborate on ... facebook
@@ -10,3 +12,6 @@
 - ⚡ Fun fact: ... ho yes
 [! website ](https://img.shields.io/badge/1.2vx-Hello%20--im__%20black-orange)
 
+<p align="left">
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
