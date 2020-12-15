@@ -21,3 +21,6 @@ Hi there 👋
 <p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p aling="left">
+<a href="#"><img title="Made in Bangladesh" src"https://img.shields.io/badge/1.2vx-Hello%20--im__%20black-orange"></a>
+</p>
